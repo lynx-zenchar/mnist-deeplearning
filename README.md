@@ -1,6 +1,6 @@
-# Keras MNIST CNN Example
+# Keras MNIST CNN
 
-This notebook demonstrates how to build, train, and evaluate a simple Convolutional Neural Network (CNN) using Keras on the MNIST dataset. The primary goal is to illustrate the steps required to preprocess image data, construct a CNN model, and assess its performance on a classification task.
+This notebook shows my attempt at building, training, and evaluating a Convolutional Neural Network (CNN) using Keras on the MNIST dataset.
 
 ## Overview
 
